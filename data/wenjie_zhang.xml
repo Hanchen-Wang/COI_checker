@@ -1,0 +1,3498 @@
+<?xml version="1.0"?>
+<dblpperson name="Wenjie Zhang 0001" pid="98/5684-1" n="212">
+<person key="homepages/98/5684-1" mdate="2019-09-10">
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<note type="affiliation">University of New South Wales, Sydney, NSW, Australia</note>
+<url>http://www.cse.unsw.edu.au/~zhangw/</url>
+<url>https://orcid.org/0000-0001-6572-2600</url>
+<url>https://www.wikidata.org/entity/Q62050593</url>
+</person>
+<homonyms n="6">
+<h f="z/Zhang:Wenjie"><person publtype="disambiguation" key="homepages/98/5684" mdate="2019-08-10">
+<author pid="98/5684">Wenjie Zhang</author>
+</person>
+</h>
+<h f="z/Zhang_0002:Wenjie"><person key="homepages/98/5684-2" mdate="2020-01-17">
+<author pid="98/5684-2">Wenjie Zhang 0002</author>
+<note type="affiliation">Northwestern Polytechnical University, School of Electronics and Information, Xi'an, China</note>
+<url>https://orcid.org/0000-0002-5563-0996</url>
+</person>
+</h>
+<h f="z/Zhang_0003:Wenjie"><person key="homepages/98/5684-3" mdate="2020-01-22">
+<author pid="98/5684-3">Wenjie Zhang 0003</author>
+<note type="affiliation">Minnan Normal University, Key Laboratory of Data Science and Intelligence Application, Zhangzhou, China</note>
+<note type="affiliation">Nanyang Technological University, Centre for Multimedia and Network, Singapore</note>
+<url>https://orcid.org/0000-0002-7470-3011</url>
+</person>
+</h>
+<h f="z/Zhang_0004:Wenjie"><person key="homepages/98/5684-4" mdate="2020-01-21">
+<author pid="98/5684-4">Wenjie Zhang 0004</author>
+<note type="affiliation">National University of Singapore, Department of Electrical and Computer Engineering</note>
+<url>https://orcid.org/0000-0001-5949-0268</url>
+</person>
+</h>
+<h f="z/Zhang_0005:Wenjie"><person key="homepages/98/5684-5" mdate="2020-01-21">
+<author pid="98/5684-5">Wenjie Zhang 0005</author>
+<note type="affiliation">Shanghai University, School of Computer Engineering and Science, China</note>
+<url>https://orcid.org/0000-0002-2561-3642</url>
+</person>
+</h>
+<h f="z/Zhang_0006:Wenjie"><person key="homepages/98/5684-6" mdate="2020-08-11">
+<author pid="98/5684-6">Wenjie Zhang 0006</author>
+<note type="affiliation">Nanjing University, China</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/isci/HeWZLZ21" mdate="2021-08-11">
+<author pid="272/4368">Yizhang He</author>
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Exploring cohesive subgraphs with vertex engagement and tie strength in bipartite graphs.</title>
+<pages>277-296</pages>
+<year>2021</year>
+<volume>572</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2021.04.027</ee>
+<url>db/journals/isci/isci572.html#HeWZLZ21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/Lin000T21" mdate="2021-03-23">
+<author pid="167/9068">Zhe Lin</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="73/5444">Zhihong Tian</author>
+<title>Hierarchical Core Maintenance on Large Dynamic Graphs.</title>
+<pages>757-770</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p757-zhang.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#Lin000T21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YangFO0021" mdate="2021-03-23">
+<author pid="136/5454">Yixing Yang</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="o/MariaEOrlowska">Maria E. Orlowska</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Bi-triangle Counting for Large Bipartite Networks.</title>
+<pages>984-996</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p984-yang.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#YangFO0021</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChenWLZQZ21" mdate="2021-07-12">
+<author pid="51/4896">Xiaoshuang Chen</author>
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs.</title>
+<pages>1845-1858</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p1845-chen.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#ChenWLZQZ21</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuWQ00021" mdate="2021-08-27">
+<author pid="39/8236">Michael Yu</author>
+<author pid="92/8453">Dong Wen</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>On Querying Historical K-Cores.</title>
+<pages>2033-2045</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2033-wen.pdf</ee>
+<url>db/journals/pvldb/pvldb14.html#YuWQ00021</url>
+</article>
+</r>
+<r><article key="journals/sigmod/MaFCLZL21" mdate="2021-07-13">
+<author pid="251/5251">Chenhao Ma</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Directed Densest Subgraph Discovery.</title>
+<pages>33-40</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3471485.3471494</ee>
+<url>db/journals/sigmod/sigmod50.html#MaFCLZL21</url>
+</article>
+</r>
+<r><article key="journals/tkdd/ZhangHLLZZ21" mdate="2021-05-14">
+<author pid="172/6567">Haida Zhang</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="167/9068">Zhe Lin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficient and High-Quality Seeded Graph Matching: Employing Higher-order Structural Information.</title>
+<pages>51:1-51:31</pages>
+<year>2021</year>
+<volume>15</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3442340</ee>
+<url>db/journals/tkdd/tkdd15.html#ZhangHLLZZ21</url>
+</article>
+</r>
+<r><article key="journals/vldb/PengLZZQZ21" mdate="2021-09-01">
+<author orcid="0000-0002-5115-0872" pid="56/6780">You Peng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Efficient Hop-constrained s-t Simple Path Enumeration.</title>
+<pages>799-823</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-021-00674-5</ee>
+<url>db/journals/vldb/vldb30.html#PengLZZQZ21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/Wang00ZQZ21" mdate="2021-07-12">
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="z/YutingZhang">Yuting Zhang</author>
+<title>Efficient and Effective Community Search on Large-scale Bipartite Graphs.</title>
+<pages>85-96</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00015</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#Wang00ZQZ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiuZZ0Z21" mdate="2021-07-12">
+<author pid="205/9505">Boge Liu</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficient Community Search with Size Constraint.</title>
+<pages>97-108</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00016</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#LiuZZ0Z21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LaiPY0021" mdate="2021-06-25">
+<author pid="243/7107">Zhengmin Lai</author>
+<author pid="56/6780">You Peng</author>
+<author pid="90/8577">Shiyu Yang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>PEFP: Efficient k-hop Constrained s-t Simple Path Enumeration on FPGA.</title>
+<pages>1320-1331</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00118</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#LaiPY0021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuQZZ021" mdate="2021-07-12">
+<author pid="39/8236">Michael Yu</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>DPTL+: Efficient Parallel Triangle Listing on Batch-Dynamic Graphs.</title>
+<pages>1332-1343</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00119</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#YuQZZ021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuW000021" mdate="2021-06-25">
+<author pid="207/0528">Yuanhang Yu</author>
+<author pid="92/8453">Dong Wen</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Matrix Factorization on Heterogeneous CPU-GPU Systems.</title>
+<pages>1871-1876</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00169</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#YuW000021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangW0Q0021" mdate="2021-06-25">
+<author pid="292/2928">Peilun Yang</author>
+<author pid="242/5152">Hanchen Wang</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>T3S: Effective Representation Learning for Trajectory Similarity Computation.</title>
+<pages>2183-2188</pages>
+<year>2021</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE51399.2021.00221</ee>
+<crossref>conf/icde/2021</crossref>
+<url>db/conf/icde/icde2021.html#YangW0Q0021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YangL0H021" mdate="2021-06-21">
+<author pid="73/908">Zhengyi Yang</author>
+<author pid="90/11212">Longbin Lai</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="243/7240">Kongzhang Hao</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>HUGE: An Efficient and Scalable Subgraph Enumeration System.</title>
+<pages>2049-2062</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457237</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#YangL0H021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/FangW0021" mdate="2021-06-22">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions.</title>
+<pages>2829-2838</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457538</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#FangW0021</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-14294" mdate="2021-04-07">
+<author pid="73/908">Zhengyi Yang</author>
+<author pid="90/11212">Longbin Lai</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="243/7240">Kongzhang Hao</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>HUGE: An Efficient and Scalable Subgraph Enumeration System.</title>
+<year>2021</year>
+<volume>abs/2103.14294</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.14294</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-14294</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PengZLQZ20" mdate="2021-04-09">
+<author pid="56/6780">You Peng</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Answering Billion-Scale Label-Constrained Reachability Queries within Microsecond.</title>
+<pages>812-825</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p812-peng.pdf</ee>
+<ee>https://doi.org/10.14778/3380750.3380753</ee>
+<url>db/journals/pvldb/pvldb13.html#PengZLQZ20</url>
+</article>
+</r>
+<r><article key="journals/pvldb/FangYZLC20" mdate="2021-04-09">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="136/5454">Yixing Yang</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-3519-7013" pid="77/2970-1">Xin Cao 0001</author>
+<title>Effective and Efficient Community Search over Large Heterogeneous Information Networks.</title>
+<pages>854-867</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p854-fang.pdf</ee>
+<ee>https://doi.org/10.14778/3380750.3380756</ee>
+<url>db/journals/pvldb/pvldb13.html#FangYZLC20</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangLZQZ20" mdate="2020-03-12">
+<author orcid="0000-0003-0548-0130" pid="21/3626-36">Fan Zhang 0036</author>
+<author orcid="0000-0002-6164-2643" pid="223/9463">Conggai Li</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Finding Critical Users in Social Communities: The Collapsed Core and Truss Problems.</title>
+<pages>78-91</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2018.2880976</ee>
+<url>db/journals/tkde/tkde32.html#ZhangLZQZ20</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChenFZZW20" mdate="2020-05-22">
+<author orcid="0000-0002-4054-3654" pid="69/8230">Hongmei Chen</author>
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2214-2299" pid="38/2512">Lizhen Wang</author>
+<title>ESPM: Efficient Spatial Pattern Matching.</title>
+<pages>1227-1233</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2947505</ee>
+<url>db/journals/tkde/tkde32.html#ChenFZZW20</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiZSWLZL20" mdate="2021-08-05">
+<author pid="06/721">Wen Li</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="127/6126">Yifang Sun</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author orcid="0000-0003-3565-1180" pid="48/10103-4">Mingjie Li 0004</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Approximate Nearest Neighbor Search on High Dimensional Data - Experiments, Analyses, and Improvement.</title>
+<pages>1475-1488</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2019.2909204</ee>
+<url>db/journals/tkde/tkde32.html#LiZSWLZL20</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangHQZZCL20" mdate="2020-12-29">
+<author orcid="0000-0002-5047-8593" pid="76/1735">Yixiang Fang</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>A survey of community search over big graphs.</title>
+<pages>353-392</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-019-00556-x</ee>
+<url>db/journals/vldb/vldb29.html#FangHQZZCL20</url>
+</article>
+</r>
+<r><article key="journals/vldb/LiuYLQZZ20" mdate="2021-04-09">
+<author pid="205/9505">Boge Liu</author>
+<author orcid="0000-0002-9896-0805" pid="140/2348">Long Yuan</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Efficient (&#945;, &#946;)-core computation in bipartite graphs.</title>
+<pages>1075-1099</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-020-00606-9</ee>
+<url>db/journals/vldb/vldb29.html#LiuYLQZZ20</url>
+</article>
+</r>
+<r><article key="journals/vldb/FangHQZZCL20a" mdate="2020-12-29">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Correction: A survey of community search over big graphs.</title>
+<pages>1219</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-019-00592-7</ee>
+<url>db/journals/vldb/vldb29.html#FangHQZZCL20a</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/LiuWZQZ20" mdate="2020-12-29">
+<author pid="212/4769">Wanqi Liu</author>
+<author pid="242/5152">Hanchen Wang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>I/O Efficient Algorithm for c-Approximate Furthest Neighbor Search in High-Dimensional Space.</title>
+<pages>221-236</pages>
+<year>2020</year>
+<booktitle>DASFAA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59419-0_14</ee>
+<crossref>conf/dasfaa/2020-3</crossref>
+<url>db/conf/dasfaa/dasfaa2020-3.html#LiuWZQZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/YuQZZL20" mdate="2020-12-29">
+<author pid="39/8236">Michael Yu</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>AOT: Pushing the Efficiency Boundary of Main-Memory Triangle Listing.</title>
+<pages>516-533</pages>
+<year>2020</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59416-9_31</ee>
+<crossref>conf/dasfaa/2020-2</crossref>
+<url>db/conf/dasfaa/dasfaa2020-2.html#YuQZZL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/001300LZQ020" mdate="2020-12-29">
+<author pid="94/4084-13">Chen Zhang 0013</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="205/9505">Boge Liu</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Exploring Finer Granularity within the Cores: Efficient (k, p)-Core Computation.</title>
+<pages>181-192</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00023</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#001300LZQ020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangZWZ020" mdate="2020-12-29">
+<author pid="181/9099">Jianye Yang</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="31/2864-7">Xiang Wang 0007</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Distributed Streaming Set Similarity Join.</title>
+<pages>565-576</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00055</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#YangZWZ020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Wang0Q0020" mdate="2020-12-29">
+<author orcid="0000-0002-3123-2184" pid="78/2022-37">Kai Wang 0037</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficient Bitruss Decomposition for Large-scale Bipartite Graphs.</title>
+<pages>661-672</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00063</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#Wang0Q0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChuZ00ZXZ20" mdate="2020-12-29">
+<author pid="206/0537">Deming Chu</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="61/3251">Yinglong Xia</author>
+<author pid="78/918">Chenyi Zhang</author>
+<title>Finding the Best k in Core Decomposition: A Time and Space Optimal Solution.</title>
+<pages>685-696</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00065</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#ChuZ00ZXZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChangF0QZO20" mdate="2020-12-29">
+<author pid="47/179">Lijun Chang</author>
+<author pid="121/5751">Xing Feng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="219/5745">Dian Ouyang</author>
+<title>Speeding Up GED Verification for Graph Similarity Search.</title>
+<pages>793-804</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00074</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#ChangF0QZO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangF00F20" mdate="2020-06-18">
+<author pid="136/5454">Yixing Yang</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Effective and Efficient Truss Computation over Large Heterogeneous Information Networks.</title>
+<pages>901-912</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00083</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#YangF00F20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WenHZQZ020" mdate="2021-04-09">
+<author orcid="0000-0002-0903-1503" pid="92/8453">Dong Wen</author>
+<author pid="87/11351-1">Yilun Huang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficiently Answering Span-Reachability Queries in Large Temporal Graphs.</title>
+<pages>1153-1164</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00104</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#WenHZQZ020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChenFZZW20" mdate="2020-12-29">
+<author pid="69/8230">Hongmei Chen</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="38/2512">Lizhen Wang</author>
+<title>ESPM: Efficient Spatial Pattern Matching (Extended Abstract).</title>
+<pages>2038-2039</pages>
+<year>2020</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE48307.2020.00238</ee>
+<crossref>conf/icde/2020</crossref>
+<url>db/conf/icde/icde2020.html#ChenFZZW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ksem/WangY0020" mdate="2020-08-21">
+<author pid="12/6277-8">Ran Wang 0008</author>
+<author pid="73/908">Zhengyi Yang</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>An Empirical Study on Recent Graph Database Systems.</title>
+<pages>328-340</pages>
+<year>2020</year>
+<booktitle>KSEM (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-55130-8_29</ee>
+<crossref>conf/ksem/2020-1</crossref>
+<url>db/conf/ksem/ksem2020-1.html#WangY0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/MaFCL0020" mdate="2020-06-05">
+<author pid="251/5251">Chenhao Ma</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs.</title>
+<pages>1051-1066</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389697</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#MaFCL0020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LinghuZ00Z20" mdate="2020-12-29">
+<author pid="260/0924">Qingyuan Linghu</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Global Reinforcement of Social Networks: The Anchored Coreness Problem.</title>
+<pages>2211-2226</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389744</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#LinghuZ00Z20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vldb/2020sfdi-lsgda" mdate="2020-11-19">
+<editor pid="51/5585">Lu Qin</editor>
+<editor pid="98/5684-1">Wenjie Zhang 0001</editor>
+<editor pid="13/6769-1">Ying Zhang 0001</editor>
+<editor pid="56/6780">You Peng</editor>
+<editor pid="67/1744">Hiroyuki Kato</editor>
+<editor pid="w/WeiWang11">Wei Wang 0011</editor>
+<editor pid="57/4384-1">Chuan Xiao 0001</editor>
+<title>Software Foundations for Data Interoperability and Large Scale Graph Data Analytics - 4th International Workshop, SFDI 2020, and 2nd International Workshop, LSGDA 2020, held in Conjunction with VLDB 2020, Tokyo, Japan, September 4, 2020, Proceedings</title>
+<booktitle>SFDI/LSGDA@VLDB</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>1281</volume>
+<isbn>978-3-030-61132-3</isbn>
+<isbn>978-3-030-61133-0</isbn>
+<ee>https://doi.org/10.1007/978-3-030-61133-0</ee>
+<url>db/conf/vldb/sfdi-lsgda2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-06111" mdate="2020-09-28">
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficient Bitruss Decomposition for Large-scale Bipartite Graphs.</title>
+<year>2020</year>
+<volume>abs/2001.06111</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.06111</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-06111</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-11494" mdate="2020-07-03">
+<author pid="39/8236">Michael Yu</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>AOT: Pushing the Efficiency Boundary of Main-memory Triangle Listing.</title>
+<year>2020</year>
+<volume>abs/2006.11494</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.11494</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-11494</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-15980" mdate="2020-07-03">
+<author pid="207/0528">Yuanhang Yu</author>
+<author pid="92/8453">Dong Wen</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Matrix Factorization on Heterogeneous CPU-GPU Systems.</title>
+<year>2020</year>
+<volume>abs/2006.15980</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.15980</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-15980</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-04054" mdate="2020-09-28">
+<author pid="272/4368">Yizhang He</author>
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs.</title>
+<year>2020</year>
+<volume>abs/2008.04054</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.04054</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-04054</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-08399" mdate="2020-11-19">
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="z/YutingZhang">Yuting Zhang</author>
+<title>Efficient and Effective Community Search on Large-scale Bipartite Graphs.</title>
+<year>2020</year>
+<volume>abs/2011.08399</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.08399</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-08399</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-11128" mdate="2021-01-04">
+<author pid="243/7107">Zhengmin Lai</author>
+<author pid="56/6780">You Peng</author>
+<author pid="90/8577">Shiyu Yang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>PEFP: Efficient k-hop Constrained s-t Simple Path Enumeration on FPGA.</title>
+<year>2020</year>
+<volume>abs/2012.11128</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.11128</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-11128</url>
+</article>
+</r>
+<r><article key="journals/dase/YangZZLW19" mdate="2020-09-01">
+<author orcid="0000-0002-4840-3023" pid="48/450-67">Yang Yang 0067</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="36/1341-12">Liping Wang 0012</author>
+<title>Selectivity Estimation on Set Containment Search.</title>
+<pages>254-268</pages>
+<year>2019</year>
+<volume>4</volume>
+<journal>Data Sci. Eng.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s41019-019-00104-1</ee>
+<url>db/journals/dase/dase4.html#YangZZLW19</url>
+</article>
+</r>
+<r><article key="journals/kais/YangZZL19" mdate="2020-03-27">
+<author pid="181/9099">Jianye Yang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Cost optimization based on influence and user preference.</title>
+<pages>695-732</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10115-018-1290-y</ee>
+<url>db/journals/kais/kais61.html#YangZZL19</url>
+</article>
+</r>
+<r><article key="journals/pami/LiuXTZ19" mdate="2019-09-25">
+<author orcid="0000-0003-2450-3369" pid="54/6677-3">Weiwei Liu 0003</author>
+<author orcid="0000-0003-4453-7056" pid="160/1496">Donna Xu</author>
+<author orcid="0000-0001-8095-4637" pid="35/5873">Ivor W. Tsang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Metric Learning for Multi-Output Tasks.</title>
+<pages>408-422</pages>
+<year>2019</year>
+<volume>41</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TPAMI.2018.2794976</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2018.2794976</ee>
+<ee>https://www.wikidata.org/entity/Q62039103</ee>
+<url>db/journals/pami/pami41.html#LiuXTZ19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LaiQYJLWHLQZZQZ19" mdate="2020-04-25">
+<author pid="90/11212">Longbin Lai</author>
+<author pid="61/7131">Zhu Qing</author>
+<author pid="73/908">Zhengyi Yang</author>
+<author pid="68/3340">Xin Jin</author>
+<author pid="243/7107">Zhengmin Lai</author>
+<author pid="12/6277-8">Ran Wang 0008</author>
+<author pid="243/7240">Kongzhang Hao</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="36/5395">Zhengping Qian</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Distributed Subgraph Matching on Timely Dataflow.</title>
+<pages>1099-1112</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1099-lai.pdf</ee>
+<ee>https://doi.org/10.14778/3339490.3339494</ee>
+<url>db/journals/pvldb/pvldb12.html#LaiQYJLWHLQZZQZ19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WangLQZZ19" mdate="2020-12-29">
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks.</title>
+<pages>1139-1152</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1139-wang.pdf</ee>
+<ee>https://doi.org/10.14778/3339490.3339497</ee>
+<url>db/journals/pvldb/pvldb12.html#WangLQZZ19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiZZQZL19" mdate="2021-04-09">
+<author orcid="0000-0002-6164-2643" pid="223/9463">Conggai Li</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Progressive Minimum k-core Search.</title>
+<pages>362-375</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p362-li.pdf</ee>
+<ee>https://doi.org/10.14778/3368289.3368300</ee>
+<url>db/journals/pvldb/pvldb13.html#LiZZQZL19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/PengZLZQZ19" mdate="2020-04-25">
+<author pid="56/6780">You Peng</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Hop-constrained s-t Simple Path Enumeration: Towards Bridging Theory and Practice.</title>
+<pages>463-476</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>4</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol13/p463-peng.pdf</ee>
+<url>db/journals/pvldb/pvldb13.html#PengZLZQZ19</url>
+</article>
+</r>
+<r><article key="journals/sigspatial/LiFCZ19" mdate="2020-12-29">
+<author orcid="0000-0003-4442-3825" pid="87/6284">Yun Li</author>
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Spatial pattern matching: a new direction for finding spatial objects.</title>
+<pages>3-12</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>ACM SIGSPATIAL Special</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3355491.3355493</ee>
+<url>db/journals/sigspatial/sigspatial11.html#LiFCZ19</url>
+</article>
+</r>
+<r><article key="journals/tip/LiuSDTZL19" mdate="2020-06-22">
+<author orcid="0000-0003-2450-3369" pid="54/6677-3">Weiwei Liu 0003</author>
+<author pid="136/1805">Xiaobo Shen 0001</author>
+<author orcid="0000-0002-0059-8458" pid="70/6443-1">Bo Du 0001</author>
+<author orcid="0000-0003-2211-8176" pid="35/5873">Ivor W. Tsang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Hyperspectral Imagery Classification via Stochastic HHSVMs.</title>
+<pages>577-588</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TIP.2018.2869691</ee>
+<ee>https://www.wikidata.org/entity/Q62039087</ee>
+<url>db/journals/tip/tip28.html#LiuSDTZL19</url>
+</article>
+</r>
+<r><article key="journals/vldb/YuLZPM19" mdate="2020-03-27">
+<author pid="45/8097">Weiren Yu</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author pid="m/JulieAMcCann">Julie A. McCann</author>
+<title>SimRank*: effective and scalable pairwise similarity search based on graph topology.</title>
+<pages>401-426</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s00778-018-0536-3</ee>
+<url>db/journals/vldb/vldb28.html#YuLZPM19</url>
+</article>
+</r>
+<r><article key="journals/vldb/ZhangLZQZ19" mdate="2020-12-29">
+<author orcid="0000-0003-0548-0130" pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Efficient community discovery with user engagement and similarity.</title>
+<pages>987-1012</pages>
+<year>2019</year>
+<volume>28</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-019-00579-4</ee>
+<url>db/journals/vldb/vldb28.html#ZhangLZQZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/Zhang00QZL19" mdate="2020-12-29">
+<author pid="94/4084-13">Chen Zhang 0013</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Selecting the Optimal Groups: Efficiently Computing Skyline k-Cliques.</title>
+<pages>1211-1220</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357991</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#Zhang00QZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/YangZZLW19" mdate="2021-04-09">
+<author orcid="0000-0002-4840-3023" pid="48/450-67">Yang Yang 0067</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="36/1341-12">Liping Wang 0012</author>
+<title>Selectivity Estimation on Set Containment Search.</title>
+<pages>330-349</pages>
+<year>2019</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-18576-3_20</ee>
+<crossref>conf/dasfaa/2019-1</crossref>
+<url>db/conf/dasfaa/dasfaa2019-1.html#YangZZLW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/WuYLYZ19" mdate="2020-03-27">
+<author pid="47/6768">Xudong Wu</author>
+<author pid="140/2348">Long Yuan</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="90/8577">Shiyu Yang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Towards Efficient k-TriPeak Decomposition on Large Graphs.</title>
+<pages>604-621</pages>
+<year>2019</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-18576-3_36</ee>
+<crossref>conf/dasfaa/2019-1</crossref>
+<url>db/conf/dasfaa/dasfaa2019-1.html#WuYLYZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangZZH19" mdate="2021-04-09">
+<author orcid="0000-0002-4840-3023" pid="48/450-67">Yang Yang 0067</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<title>GB-KMV: An Augmented KMV Sketch for Approximate Containment Similarity Search.</title>
+<pages>458-469</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00048</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#YangZZH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangZZQY19" mdate="2020-12-29">
+<author pid="94/4084-13">Chen Zhang 0013</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="181/9099">Jianye Yang</author>
+<title>Efficient Maximal Spatial Clique Enumeration.</title>
+<pages>878-889</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00083</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ZhangZZQY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChenCXZSZ19" mdate="2021-04-20">
+<author pid="12/7186-1">Xuefeng Chen 0001</author>
+<author orcid="0000-0002-3519-7013" pid="77/2970-1">Xin Cao 0001</author>
+<author pid="72/51">Zhiqiang Xu</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="29/8750">Shuo Shang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Accelerate MaxBRkNN Search by kNN Estimation.</title>
+<pages>1730-1733</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00184</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ChenCXZSZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangQZZ19" mdate="2020-12-29">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Hierarchical Decomposition of Big Graphs.</title>
+<pages>2064-2067</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00240</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#ZhangQZZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuanQZCY19" mdate="2020-12-29">
+<author pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author pid="181/9099">Jianye Yang</author>
+<title>Index-Based Densest Clique Percolation Community Search in Networks (Extended Abstract).</title>
+<pages>2161-2162</pages>
+<year>2019</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2019.00275</ee>
+<crossref>conf/icde/2019</crossref>
+<url>db/conf/icde/icde2019.html#YuanQZCY19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ZhouZLZ019" mdate="2020-03-16">
+<author pid="48/7636">Zhongxin Zhou</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="65/4423-17">Chen Chen 0017</author>
+<title>K-Core Maximization: An Edge Addition Approach.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/676</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#ZhouZLZ019</url>
+<pages>4867-4873</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/LiuZZ0L19" mdate="2020-03-27">
+<author pid="205/9505">Boge Liu</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="94/4084-13">Chen Zhang 0013</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>CoreCube: Core Decomposition in Multilayer Graphs.</title>
+<pages>694-710</pages>
+<year>2019</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-34223-4_44</ee>
+<crossref>conf/wise/2019</crossref>
+<url>db/conf/wise/wise2019.html#LiuZZ0L19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LiuYLQZZ19" mdate="2020-12-29">
+<author pid="205/9505">Boge Liu</author>
+<author pid="140/2348">Long Yuan</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>Efficient (a,&#946;)-core Computation: an Index-based Approach.</title>
+<pages>1130-1141</pages>
+<year>2019</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3308558.3313522</ee>
+<crossref>conf/www/2019</crossref>
+<url>db/conf/www/www2019.html#LiuYLQZZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12539" mdate="2020-03-16">
+<author pid="76/1735">Yixiang Fang</author>
+<author pid="98/5766-1">Xin Huang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="89/2619">Reynold Cheng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>A Survey of Community Search Over Big Graphs.</title>
+<year>2019</year>
+<volume>abs/1904.12539</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12539</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12539</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-11518" mdate="2020-03-16">
+<author pid="90/11212">Longbin Lai</author>
+<author pid="61/7131">Zhu Qing</author>
+<author pid="73/908">Zhengyi Yang</author>
+<author pid="68/3340">Xin Jin</author>
+<author pid="243/7107">Zhengmin Lai</author>
+<author pid="12/6277-8">Ran Wang 0008</author>
+<author pid="243/7240">Kongzhang Hao</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="36/5395">Zhengping Qian</author>
+<author pid="84/2644">Jingren Zhou</author>
+<title>A Survey and Experimental Analysis of Distributed Subgraph Matching.</title>
+<year>2019</year>
+<volume>abs/1906.11518</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.11518</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-11518</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-12334" mdate="2020-03-16">
+<author pid="48/7636">Zhongxin Zhou</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="65/4423-17">Chen Chen 0017</author>
+<title>K-Core Maximization through Edge Additions.</title>
+<year>2019</year>
+<volume>abs/1906.12334</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.12334</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-12334</url>
+</article>
+</r>
+<r><article key="journals/dpd/FengCLQZY18" mdate="2020-05-18">
+<author pid="121/5751">Xing Feng</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="140/2348">Long Yuan</author>
+<title>Distributed computing connected components with linear communication cost.</title>
+<pages>555-592</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10619-018-7232-6</ee>
+<url>db/journals/dpd/dpd36.html#FengCLQZY18</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BiCLZ18" mdate="2020-04-25">
+<author pid="74/9649">Fei Bi</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>An Optimal and Progressive Approach to Online Search of Top-K Influential Communities.</title>
+<pages>1056-1068</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>9</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p1056-bi.pdf</ee>
+<ee>https://doi.org/10.14778/3213880.3213881</ee>
+<url>db/journals/pvldb/pvldb11.html#BiCLZ18</url>
+</article>
+</r>
+<r><article key="journals/tkde/YuanQZCY18" mdate="2019-08-10">
+<author orcid="0000-0003-3351-9119" pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-6830-3900" pid="47/179">Lijun Chang</author>
+<author orcid="0000-0002-0818-4970" pid="181/9099">Jianye Yang</author>
+<title>Index-Based Densest Clique Percolation Community Search in Networks.</title>
+<pages>922-935</pages>
+<year>2018</year>
+<volume>30</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TKDE.2017.2783933</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2017.2783933</ee>
+<url>db/journals/tkde/tkde30.html#YuanQZCY18</url>
+</article>
+</r>
+<r><article key="journals/vldb/ZhaoXLZW18" mdate="2020-10-06">
+<author pid="07/668-2">Xiang Zhao 0002</author>
+<author orcid="0000-0001-7239-5134" pid="57/4384-1">Chuan Xiao 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<title>Efficient structure similarity searches: a partition-based approach.</title>
+<pages>53-78</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-017-0487-0</ee>
+<url>db/journals/vldb/vldb27.html#ZhaoXLZW18</url>
+</article>
+</r>
+<r><article key="journals/vldb/YuLZM18" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="m/JulieAMcCann">Julie A. McCann</author>
+<title>Dynamical SimRank search on time-varying networks.</title>
+<pages>79-104</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s00778-017-0488-z</ee>
+<url>db/journals/vldb/vldb27.html#YuLZM18</url>
+</article>
+</r>
+<r><article key="journals/vldb/YangZYZLY18" mdate="2020-03-27">
+<author pid="181/9099">Jianye Yang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="90/8577">Shiyu Yang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="140/2348">Long Yuan</author>
+<title>Efficient set containment join.</title>
+<pages>471-495</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-018-0505-x</ee>
+<url>db/journals/vldb/vldb27.html#YangZYZLY18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/LiuLTZL18" mdate="2021-02-18">
+<author pid="54/6677-3">Weiwei Liu 0003</author>
+<author pid="195/8237">Zhuanghua Liu</author>
+<author pid="35/5873">Ivor W. Tsang</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Doubly Approximate Nearest Neighbor Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16640</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuLTZL18</url>
+<pages>3683-3690</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/ZhangWZY18" mdate="2020-04-25">
+<author pid="99/6243">Junjie Zhang</author>
+<author pid="36/1341-12">Liping Wang 0012</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="98/5434">Junjie Yao</author>
+<title>A Signal Quality Assessment Method for Electrocardiography Acquired by Mobile Device.</title>
+<pages>1-3</pages>
+<year>2018</year>
+<booktitle>BIBM</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BIBM.2018.8621160</ee>
+<crossref>conf/bibm/2018</crossref>
+<url>db/conf/bibm/bibm2018.html#ZhangWZY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/QingYZQLZ18" mdate="2020-03-16">
+<author pid="61/7131">Zhu Qing</author>
+<author pid="140/2348">Long Yuan</author>
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>External Topological Sorting in Large Graphs.</title>
+<pages>203-220</pages>
+<year>2018</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91452-7_14</ee>
+<crossref>conf/dasfaa/2018-1</crossref>
+<url>db/conf/dasfaa/dasfaa2018-1.html#QingYZQLZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangCLZQ18" mdate="2021-04-09">
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author orcid="0000-0002-3519-7013" pid="77/2970-1">Xin Cao 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<title>Efficient Computing of Radius-Bounded k-Cores.</title>
+<pages>233-244</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00030</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00030</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#WangCLZQ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangZQZL18" mdate="2020-03-27">
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficiently Reinforcing Social Networks over User Engagement and Tie Strength.</title>
+<pages>557-568</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00057</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00057</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ZhangZQZL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/PengZZLQ18" mdate="2020-03-27">
+<author pid="56/6780">You Peng</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<title>Efficient Probabilistic K-Core Computation on Uncertain Graphs.</title>
+<pages>1192-1203</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00110</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00110</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#PengZZLQ18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-00458" mdate="2019-11-06">
+<author pid="48/450-67">Yang Yang 0067</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<title>GB-KMV: An Augmented KMV Sketch for Approximate Containment Similarity Search.</title>
+<year>2018</year>
+<volume>abs/1809.00458</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.00458</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-00458</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-11152" mdate="2020-03-16">
+<author pid="172/6567">Haida Zhang</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="167/9068">Zhe Lin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficient and High-Quality Seeded Graph Matching: Employing High Order Structural Information.</title>
+<year>2018</year>
+<volume>abs/1810.11152</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.11152</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-11152</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-00283" mdate="2020-09-28">
+<author pid="78/2022-37">Kai Wang 0037</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<title>Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks.</title>
+<year>2018</year>
+<volume>abs/1812.00283</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.00283</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-00283</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhangZZQL17" mdate="2020-12-29">
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>OLAK: An Efficient Algorithm to Prevent Unraveling in Social Networks.</title>
+<pages>649-660</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>6</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p649-zhang.pdf</ee>
+<ee>https://doi.org/10.14778/3055330.3055332</ee>
+<url>db/journals/pvldb/pvldb10.html#ZhangZZQL17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhangZQZL17" mdate="2020-04-25">
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>When Engagement Meets Similarity: Efficient (k, r)-Core Computation on Social Networks.</title>
+<pages>998-1009</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p998-zhang.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115406</ee>
+<url>db/journals/pvldb/pvldb10.html#ZhangZQZL17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuanQLCZ17" mdate="2020-04-25">
+<author pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Effective and Efficient Dynamic Graph Coloring.</title>
+<pages>338-351</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol11/p338-yuan.pdf</ee>
+<ee>https://doi.org/10.14778/3157794.3157802</ee>
+<url>db/journals/pvldb/pvldb11.html#YuanQLCZ17</url>
+</article>
+</r>
+<r><article key="journals/tip/WangLWZ17" mdate="2020-05-10">
+<author orcid="0000-0003-1029-9280" pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Effective Multi-Query Expansions: Collaborative Deep Networks for Robust Landmark Retrieval.</title>
+<pages>1393-1404</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TIP.2017.2655449</ee>
+<ee>https://www.wikidata.org/entity/Q39012216</ee>
+<url>db/journals/tip/tip26.html#WangLWZ17</url>
+</article>
+</r>
+<r><article key="journals/tkde/WangZZLC17" mdate="2020-03-27">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="65/4423-17">Chen Chen 0017</author>
+<title>Bring Order into the Samples: A Novel Scalable Method for Influence Maximization.</title>
+<pages>243-256</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2624734</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2624734</ee>
+<url>db/journals/tkde/tkde29.html#WangZZLC17</url>
+</article>
+</r>
+<r><article key="journals/tkde/ChangLQZY17" mdate="2019-09-25">
+<author pid="47/179">Lijun Chang</author>
+<author pid="64/6025-109">Wei Li 0109</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="90/8577">Shiyu Yang</author>
+<title>pSCAN: Fast and Exact Structural Graph Clustering.</title>
+<pages>387-401</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2618795</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2618795</ee>
+<url>db/journals/tkde/tkde29.html#ChangLQZY17</url>
+</article>
+</r>
+<r><article key="journals/tkde/WangZZL17" mdate="2020-03-27">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Distance-Aware Influence Maximization in Geo-Social Networks.</title>
+<pages>599-612</pages>
+<year>2017</year>
+<volume>29</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2633472</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2633472</ee>
+<url>db/journals/tkde/tkde29.html#WangZZL17</url>
+</article>
+</r>
+<r><article key="journals/tnn/WangZWLZ17" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="07/668-2">Xiang Zhao 0002</author>
+<title>Unsupervised Metric Fusion Over Multiview Data by Graph Random Walk-Based Cross-View Diffusion.</title>
+<pages>57-70</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNNLS.2015.2498149</ee>
+<ee>https://www.wikidata.org/entity/Q31032302</ee>
+<url>db/journals/tnn/tnn28.html#WangZWLZ17</url>
+</article>
+</r>
+<r><article key="journals/vldb/YangCLZZ17" mdate="2020-03-27">
+<author pid="90/8577">Shiyu Yang</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Reverse k nearest neighbors queries and spatial reverse top-k queries.</title>
+<pages>151-176</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-016-0445-2</ee>
+<url>db/journals/vldb/vldb26.html#YangCLZZ17</url>
+</article>
+</r>
+<r><article key="journals/vldb/YuanQLCZ17" mdate="2020-03-16">
+<author pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>I/O efficient ECC graph decomposition via graph reduction.</title>
+<pages>275-300</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-016-0451-4</ee>
+<url>db/journals/vldb/vldb26.html#YuanQLCZ17</url>
+</article>
+</r>
+<r><article key="journals/vldb/WangZZLH17" mdate="2020-03-27">
+<author orcid="0000-0001-9449-5726" pid="31/2864-7">Xiang Wang 0007</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<title>Top-k spatial-keyword publish/subscribe over sliding window.</title>
+<pages>301-326</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>VLDB J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00778-016-0453-2</ee>
+<url>db/journals/vldb/vldb26.html#WangZZLH17</url>
+</article>
+</r>
+<r><article key="journals/www/YangZZWL17" mdate="2020-03-27">
+<author pid="181/9099">Jianye Yang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Categorical top-k spatial influence query.</title>
+<pages>175-203</pages>
+<year>2017</year>
+<volume>20</volume>
+<journal>World Wide Web</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11280-016-0383-3</ee>
+<url>db/journals/www/www20.html#YangZZWL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZhangZQZL17" mdate="2021-02-10">
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem.</title>
+<pages>245-251</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14349</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangZQZL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adc/JiangZZZLCW17" mdate="2020-03-27">
+<author pid="206/0728">Shanqing Jiang</author>
+<author pid="39/488">Chengyuan Zhang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<title>DSKQ: A System for Efficient Processing of Diversified Spatial-Keyword Query.</title>
+<pages>280-284</pages>
+<year>2017</year>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68155-9_22</ee>
+<crossref>conf/adc/2017</crossref>
+<url>db/conf/adc/adc2017.html#JiangZZZLCW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangZZLC17" mdate="2020-03-27">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="65/4423-17">Chen Chen 0017</author>
+<title>Bring Order into the Samples: A Novel Scalable Method for Influence Maximization (Extended Abstract).</title>
+<pages>55-56</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.34</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#WangZZLC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangZYZL17" mdate="2020-03-27">
+<author pid="181/9099">Jianye Yang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="90/8577">Shiyu Yang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>TT-Join: Efficient Set Containment Join.</title>
+<pages>509-520</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.107</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.107</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#YangZYZL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangHWZL17" mdate="2020-03-16">
+<author pid="172/6567">Haida Zhang</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<author pid="94/4260">Zhewei Wei</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Tracking Matrix Approximation over Distributed Sliding Windows.</title>
+<pages>833-844</pages>
+<year>2017</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2017.133</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2017.133</ee>
+<crossref>conf/icde/2017</crossref>
+<url>db/conf/icde/icde2017.html#ZhangHWZL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/HuangLZZ17" mdate="2020-03-27">
+<author pid="97/9726">Zengfeng Huang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficient Matrix Sketching over Distributed Data.</title>
+<pages>347-359</pages>
+<year>2017</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3034786.3056119</ee>
+<crossref>conf/pods/2017</crossref>
+<url>db/conf/pods/pods2017.html#HuangLZZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChangLZ17" mdate="2019-08-16">
+<author pid="47/179">Lijun Chang</author>
+<author pid="64/6025-109">Wei Li 0109</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling.</title>
+<pages>1181-1196</pages>
+<year>2017</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3035918.3035939</ee>
+<crossref>conf/sigmod/2017</crossref>
+<url>db/conf/sigmod/sigmod2017.html#ChangLZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/WangZCZX17" mdate="2019-08-10">
+<author pid="85/4469">Yuheng Wang</author>
+<author pid="07/668-2">Xiang Zhao 0002</author>
+<author pid="52/295">Yifan Chen</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="87/5207">Weidong Xiao</author>
+<title>Local Top-N Recommendation via Refined Item-User Bi-Clustering.</title>
+<pages>357-371</pages>
+<year>2017</year>
+<booktitle>WISE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68786-5_29</ee>
+<crossref>conf/wise/2017-2</crossref>
+<url>db/conf/wise/wise2017-2.html#WangZCZX17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangLWZ17" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="65/6292-1">Lin Wu 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Effective Multi-Query Expansions: Collaborative Deep Networks for Robust Landmark Retrieval.</title>
+<year>2017</year>
+<volume>abs/1701.05003</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.05003</ee>
+<url>db/journals/corr/corr1701.html#WangLWZ17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1709-06810" mdate="2020-03-16">
+<author pid="47/179">Lijun Chang</author>
+<author pid="121/5751">Xing Feng</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Efficient Graph Edit Distance Computation and Verification via Anchor-aware Lower Bound Estimation.</title>
+<year>2017</year>
+<volume>abs/1709.06810</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1709.06810</ee>
+<url>db/journals/corr/corr1709.html#abs-1709-06810</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-00121" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="m/JulieAMcCann">Julie A. McCann</author>
+<title>Dynamical SimRank Search on Time-Varying Networks.</title>
+<year>2017</year>
+<volume>abs/1711.00121</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.00121</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-00121</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-05857" mdate="2020-03-16">
+<author pid="74/9649">Fei Bi</author>
+<author pid="47/179">Lijun Chang</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>An Optimal and Progressive Approach to Online Search of Top-k Important Communities.</title>
+<year>2017</year>
+<volume>abs/1711.05857</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.05857</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-05857</url>
+</article>
+</r>
+<r><article key="journals/kais/WangLWZZ16" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Shifting multi-hypergraphs via collaborative probabilistic voting.</title>
+<pages>515-536</pages>
+<year>2016</year>
+<volume>46</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-015-0833-8</ee>
+<url>db/journals/kais/kais46.html#WangLWZZ16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuanQLCZ16" mdate="2020-04-25">
+<author pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>I/O Efficient ECC Graph Decomposition via Graph Reduction.</title>
+<pages>516-527</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p516-yuan.pdf</ee>
+<ee>https://doi.org/10.14778/2904483.2904484</ee>
+<url>db/journals/pvldb/pvldb9.html#YuanQLCZ16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/WangZZLH16" mdate="2020-04-25">
+<author pid="31/2864-7">Xiang Wang 0007</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<title>SKYPE: Top-k Spatial-keyword Publish/Subscribe Over Sliding Window.</title>
+<pages>588-599</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>7</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol9/p588-wang.pdf</ee>
+<ee>https://doi.org/10.14778/2904483.2904490</ee>
+<url>db/journals/pvldb/pvldb9.html#WangZZLH16</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangLZZZ16" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="32/4014-1">Ke Zhu 0001</author>
+<author pid="57/7967">Gaoping Zhu</author>
+<title>Efficient Probabilistic Supergraph Search.</title>
+<pages>965-978</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2499201</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2499201</ee>
+<url>db/journals/tkde/tkde28.html#ZhangLZZZ16</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangZZL16" mdate="2020-03-16">
+<author pid="39/488">Chengyuan Zhang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Inverted Linear Quadtree: Efficient Top K Spatial Keyword Search.</title>
+<pages>1706-1721</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2530060</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2530060</ee>
+<url>db/journals/tkde/tkde28.html#ZhangZZL16</url>
+</article>
+</r>
+<r><article key="journals/tkde/WangZZL16" mdate="2020-03-27">
+<author orcid="0000-0003-3554-3219" pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient Identification of Local Keyword Patterns in Microblogging Platforms.</title>
+<pages>2621-2634</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2016.2578330</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2016.2578330</ee>
+<url>db/journals/tkde/tkde28.html#WangZZL16</url>
+</article>
+</r>
+<r><article key="journals/vldb/YuanQLCZ16" mdate="2020-03-16">
+<author pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Diversified top-k clique search.</title>
+<pages>171-196</pages>
+<year>2016</year>
+<volume>25</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-015-0408-z</ee>
+<url>db/journals/vldb/vldb25.html#YuanQLCZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/WangYZ16" mdate="2020-04-25">
+<author pid="36/1341-12">Liping Wang 0012</author>
+<author pid="98/5434">Junjie Yao</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>A time-series similarity method for QRS morphology variation analysis.</title>
+<pages>419-426</pages>
+<year>2016</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2016.7822554</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BIBM.2016.7822554</ee>
+<crossref>conf/bibm/2016</crossref>
+<url>db/conf/bibm/bibm2016.html#WangYZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangZZL16" mdate="2020-03-27">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Distance-aware influence maximization in geo-social network.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498224</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498224</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#WangZZL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/FengCLQZ16" mdate="2020-03-16">
+<author pid="121/5751">Xing Feng</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Computing Connected Components with linear communication cost in pregel-like systems.</title>
+<pages>85-96</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498231</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498231</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#FengCLQZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChangLLQZ16" mdate="2020-03-16">
+<author pid="47/179">Lijun Chang</author>
+<author pid="64/6025-109">Wei Li 0109</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>pSCAN: Fast and exact structural graph clustering.</title>
+<pages>253-264</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498245</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498245</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#ChangLLQZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangZZL16" mdate="2020-03-27">
+<author pid="181/9099">Jianye Yang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Influence based cost optimization on user preference.</title>
+<pages>709-720</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498283</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498283</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#YangZZL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangLZZZ16" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="32/4014-1">Ke Zhu 0001</author>
+<author pid="57/7967">Gaoping Zhu</author>
+<title>Efficient probabilistic supergraph search.</title>
+<pages>1542-1543</pages>
+<year>2016</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2016.7498415</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2016.7498415</ee>
+<crossref>conf/icde/2016</crossref>
+<url>db/conf/icde/icde2016.html#ZhangLZZZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WangZWLFP16" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="65/6292-1">Lin Wu 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="67/463">Meng Fang</author>
+<author pid="91/8171">Shirui Pan</author>
+<title>Iterative Views Agreement: An Iterative Low-Rank Based Structured Optimization Method to Multi-View Spectral Clustering.</title>
+<pages>2153-2159</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/307</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#WangZWLFP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BiCLQZ16" mdate="2020-03-16">
+<author pid="74/9649">Fei Bi</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Efficient Subgraph Matching by Postponing Cartesian Products.</title>
+<pages>1199-1214</pages>
+<year>2016</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2882903.2915236</ee>
+<crossref>conf/sigmod/2016</crossref>
+<url>db/conf/sigmod/sigmod2016.html#BiCLQZ16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adc/2016" mdate="2019-08-12">
+<editor pid="55/5690">Muhammad Aamir Cheema</editor>
+<editor pid="98/5684-1">Wenjie Zhang 0001</editor>
+<editor pid="47/179">Lijun Chang</editor>
+<title>Databases Theory and Applications - 27th Australasian Database Conference, ADC 2016, Sydney, NSW, Australia, September 28-29, 2016, Proceedings</title>
+<booktitle>ADC</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9877</volume>
+<isbn>978-3-319-46921-8</isbn>
+<ee>https://doi.org/10.1007/978-3-319-46922-5</ee>
+<url>db/conf/adc/adc2016.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/apweb/2016w" mdate="2019-08-10">
+<editor pid="m/AtsuyukiMorishima">Atsuyuki Morishima</editor>
+<editor pid="47/179">Lijun Chang</editor>
+<editor pid="89/6622">Tom Z. J. Fu</editor>
+<editor pid="11/2478">Kuien Liu</editor>
+<editor pid="35/5553">Xiaoyan Yang</editor>
+<editor pid="22/2544">Jia Zhu</editor>
+<editor pid="13/5366-2">Rong Zhang 0002</editor>
+<editor orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</editor>
+<editor pid="68/1980">Zhiwei Zhang</editor>
+<title>Web Technologies and Applications - APWeb 2016 Workshops, WDMA, GAP, and SDMA, Suzhou, China, September 23-25, 2016, Proceedings</title>
+<booktitle>APWeb Workshops</booktitle>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9865</volume>
+<isbn>978-3-319-45834-2</isbn>
+<ee>https://doi.org/10.1007/978-3-319-45835-9</ee>
+<url>db/conf/apweb/apweb2016w.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WangZWLFP16" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="65/6292-1">Lin Wu 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="67/463">Meng Fang</author>
+<author pid="91/8171">Shirui Pan</author>
+<title>Iterative Views Agreement: An Iterative Low-Rank based Structured Optimization Method to Multi-View Spectral Clustering.</title>
+<year>2016</year>
+<volume>abs/1608.05560</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.05560</ee>
+<url>db/journals/corr/corr1608.html#WangZWLFP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LiZSWZL16" mdate="2020-03-16">
+<author pid="06/721">Wen Li</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="127/6126">Yifang Sun</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Approximate Nearest Neighbor Search on High Dimensional Data - Experiments, Analyses, and Improvement (v1.0).</title>
+<year>2016</year>
+<volume>abs/1610.02455</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.02455</ee>
+<url>db/journals/corr/corr1610.html#LiZSWZL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/WangZZLH16" mdate="2020-03-16">
+<author pid="31/2864-7">Xiang Wang 0007</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="97/9726">Zengfeng Huang</author>
+<title>Top-k Spatial-keyword Publish/Subscribe Over Sliding Window.</title>
+<year>2016</year>
+<volume>abs/1611.03204</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.03204</ee>
+<url>db/journals/corr/corr1611.html#WangZZLH16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangZQZL16" mdate="2020-03-16">
+<author pid="21/3626-36">Fan Zhang 0036</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="51/5585">Lu Qin</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>When Engagement Meets Similarity: Efficient (k, r)-Core Computation on Social Networks.</title>
+<year>2016</year>
+<volume>abs/1611.03254</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.03254</ee>
+<url>db/journals/corr/corr1611.html#ZhangZQZL16</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChangLZYZQ15" mdate="2020-04-25">
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<title>Optimal Enumeration: Efficient Top-k Tree Matching.</title>
+<pages>533-544</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>5</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p533-chang.pdf</ee>
+<ee>https://doi.org/10.14778/2735479.2735486</ee>
+<url>db/journals/pvldb/pvldb8.html#ChangLZYZQ15</url>
+</article>
+</r>
+<r><article key="journals/tip/WangLWZZH15" mdate="2020-05-10">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<author orcid="0000-0002-6084-1851" pid="47/1394">Xiaodi Huang</author>
+<title>Robust Subspace Clustering for Multi-View Data by Exploiting Correlation Consensus.</title>
+<pages>3939-3949</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TIP.2015.2457339</ee>
+<ee>https://www.wikidata.org/entity/Q30992434</ee>
+<url>db/journals/tip/tip24.html#WangLWZZH15</url>
+</article>
+</r>
+<r><article key="journals/tkde/YuLZM15" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="m/JulieAMcCann">Julie A. McCann</author>
+<title>Fast All-Pairs SimRank Assessment on Large Graphs and Bipartite Domains.</title>
+<pages>1810-1823</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2339828</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2014.2339828</ee>
+<url>db/journals/tkde/tkde27.html#YuLZM15</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhanZZL15" mdate="2020-03-27">
+<author pid="121/4125">Liming Zhan</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Finding Top k Most Influential Spatial Facilities over Uncertain Objects.</title>
+<pages>3289-3303</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TKDE.2015.2457899</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2015.2457899</ee>
+<url>db/journals/tkde/tkde27.html#ZhanZZL15</url>
+</article>
+</r>
+<r><article key="journals/vldb/WangZZLW15" mdate="2020-03-27">
+<author pid="31/2864-7">Xiang Wang 0007</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>AP-Tree: efficiently support location-aware Publish/Subscribe.</title>
+<pages>823-848</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>VLDB J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00778-015-0403-4</ee>
+<url>db/journals/vldb/vldb24.html#WangZZLW15</url>
+</article>
+</r>
+<r><article key="journals/www/ZhangLCZC15" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="33/5220">Aiping Li</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<title>Probabilistic n-of-N skyline computation over uncertain data streams.</title>
+<pages>1331-1350</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>World Wide Web</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11280-014-0292-2</ee>
+<url>db/journals/www/www18.html#ZhangLCZC15</url>
+</article>
+</r>
+<r><article key="journals/www/0011Z15" mdate="2019-08-10">
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Guest editorial: web applications and techniques.</title>
+<pages>1391-1392</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>World Wide Web</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s11280-015-0345-1</ee>
+<url>db/journals/www/www18.html#0011Z15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ZhanZZWL15" mdate="2020-03-27">
+<author pid="121/4125">Liming Zhan</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Range Search on Uncertain Trajectories.</title>
+<pages>921-930</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2806416.2806430</ee>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#ZhanZZWL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/HanWZZL15" mdate="2020-04-25">
+<author pid="91/7908">Yuxing Han</author>
+<author pid="36/1341-12">Liping Wang 0012</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Spatial Keyword Range Search on Trajectories.</title>
+<pages>223-240</pages>
+<year>2015</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18123-3_14</ee>
+<crossref>conf/dasfaa/2015-2</crossref>
+<url>db/conf/dasfaa/dasfaa2015-2.html#HanWZZL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/BiCZL15" mdate="2020-03-16">
+<author pid="74/9649">Fei Bi</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient String Similarity Search: A Cross Pivotal Based Approach.</title>
+<pages>545-564</pages>
+<year>2015</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18120-2_32</ee>
+<crossref>conf/dasfaa/2015-1</crossref>
+<url>db/conf/dasfaa/dasfaa2015-1.html#BiCZL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuanQLCZ15" mdate="2020-03-16">
+<author pid="140/2348">Long Yuan</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Diversified top-k clique search.</title>
+<pages>387-398</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113300</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113300</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#YuanQLCZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/WangZZLW15" mdate="2020-03-27">
+<author pid="31/2864-7">Xiang Wang 0007</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>AP-Tree: Efficiently support continuous spatial-keyword queries over stream.</title>
+<pages>1107-1118</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113360</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113360</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#WangZZLW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/WangLWZ15" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Effective Multi-Query Expansions: Robust Landmark Retrieval.</title>
+<pages>79-88</pages>
+<year>2015</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2733373.2806233</ee>
+<crossref>conf/mm/2015</crossref>
+<url>db/conf/mm/mm2015.html#WangLWZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WangLWZZ15" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<title>LBMCH: Learning Bridging Mapping for Cross-modal Hashing.</title>
+<pages>999-1002</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767825</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#WangLWZZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ChangLQYZ15" mdate="2020-03-16">
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6068-5062" pid="51/5585">Lu Qin</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Index-based Optimal Algorithms for Computing Steiner Components with Maximum Connectivity.</title>
+<pages>459-474</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2746486</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#ChangLQYZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/WangZZLC15" mdate="2020-03-27">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<title>Optimal Spatial Dominance: An Effective Search of Nearest Neighbor Candidates.</title>
+<pages>923-938</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2749442</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#WangZZLC15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/WangZZLW14" mdate="2020-04-25">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>Selectivity Estimation on Streaming Spatio-Textual Data Using Local Correlations.</title>
+<pages>101-112</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>2</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p101-wang.pdf</ee>
+<ee>https://doi.org/10.14778/2735471.2735472</ee>
+<url>db/journals/pvldb/pvldb8.html#WangZZLW14</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangZPLLL14" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="95/7992">Qianlu Lin</author>
+<author pid="33/5220">Aiping Li</author>
+<title>Consensus-Based Ranking of Multivalued Objects: A Generalized Borda Count Approach.</title>
+<pages>83-96</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TKDE.2012.250</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2012.250</ee>
+<url>db/journals/tkde/tkde26.html#ZhangZPLLL14</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangZLLS14" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="95/7992">Qianlu Lin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="s/HTShen">Heng Tao Shen</author>
+<title>Effectively Indexing the Multidimensional Uncertain Objects.</title>
+<pages>608-622</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TKDE.2013.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.21</ee>
+<url>db/journals/tkde/tkde26.html#ZhangZLLS14</url>
+</article>
+</r>
+<r><article key="journals/tkde/ShenCLZW14" mdate="2020-03-16">
+<author pid="22/7752">Zhitao Shen</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<title>A Generic Framework for Top-<i>k</i> Pairs and Top-<i>k</i> Objects Queries over Sliding Windows.</title>
+<pages>1349-1366</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TKDE.2012.181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2012.181</ee>
+<url>db/journals/tkde/tkde26.html#ShenCLZW14</url>
+</article>
+</r>
+<r><article key="journals/tkde/CheemaLW014" mdate="2020-03-27">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>A Unified Framework for Answering k Closest Pairs Queries and Variants.</title>
+<pages>2610-2624</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TKDE.2014.2304469</ee>
+<url>db/journals/tkde/tkde26.html#CheemaLW014</url>
+</article>
+</r>
+<r><article key="journals/www/ZhangZZCL14" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="121/4125">Liming Zhan</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient top-k similarity join processing over multi-valued objects.</title>
+<pages>285-309</pages>
+<year>2014</year>
+<volume>17</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-012-0201-5</ee>
+<url>db/journals/www/www17.html#ZhangZZCL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/HanCZLW14" mdate="2020-04-25">
+<author pid="91/7908">Yuxing Han</author>
+<author pid="47/179">Lijun Chang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="36/1341-12">Liping Wang 0012</author>
+<title>Efficiently Retrieving Top-k Trajectories by Locations via Traveling Time.</title>
+<pages>122-134</pages>
+<year>2014</year>
+<booktitle>ADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08608-8_11</ee>
+<crossref>conf/adc/2014</crossref>
+<url>db/conf/adc/adc2014.html#HanCZLW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhaoXZLT14" mdate="2020-10-06">
+<author pid="07/668-2">Xiang Zhao 0002</author>
+<author orcid="0000-0001-7239-5134" pid="57/4384-1">Chuan Xiao 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="69/5457">Jiuyang Tang</author>
+<title>Improving Performance of Graph Similarity Joins Using Selected Substructures.</title>
+<pages>156-172</pages>
+<year>2014</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05810-8_11</ee>
+<crossref>conf/dasfaa/2014-1</crossref>
+<url>db/conf/dasfaa/dasfaa2014-1.html#ZhaoXZLT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhanZZL14" mdate="2020-03-27">
+<author pid="121/4125">Liming Zhan</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Identifying Top k Dominating Objects over Uncertain Data.</title>
+<pages>388-405</pages>
+<year>2014</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-05810-8_26</ee>
+<crossref>conf/dasfaa/2014-1</crossref>
+<url>db/conf/dasfaa/dasfaa2014-1.html#ZhanZZL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/ZhangZZLCW14" mdate="2021-01-29">
+<author pid="39/488">Chengyuan Zhang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<title>Diversified Spatial Keyword Search On Road Networks.</title>
+<pages>367-378</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.34</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#ZhangZZLCW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CheemaSLZ14" mdate="2021-01-29">
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<author pid="22/7752">Zhitao Shen</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>A Unified Framework for Efficiently Processing Ranking Related Queries.</title>
+<pages>427-438</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.39</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#CheemaSLZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuLZ14" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Fast incremental SimRank on link-evolving graphs.</title>
+<pages>304-315</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816660</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816660</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#YuLZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/WangLWZZ14" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6119-058X" pid="65/6292-1">Lin Wu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<title>Exploiting Correlation Consensus: Towards Subspace Clustering for Multi-modal Data.</title>
+<pages>981-984</pages>
+<year>2014</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/2647868.2654999</ee>
+<crossref>conf/mm/2014</crossref>
+<url>db/conf/mm/mm2014.html#WangLWZZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/WangPLZZ14" mdate="2020-03-16">
+<author pid="w/YangWang23">Yang Wang 0023</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>An Iterative Fusion Approach to Graph-Based Semi-Supervised Learning from Multiple Views.</title>
+<pages>162-173</pages>
+<year>2014</year>
+<booktitle>PAKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06605-9_14</ee>
+<crossref>conf/pakdd/2014-2</crossref>
+<url>db/conf/pakdd/pakdd2014-2.html#WangPLZZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WangZZL14" mdate="2020-03-27">
+<author pid="81/1832-2">Xiaoyang Wang 0002</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficiently identify local frequent keyword co-occurrence patterns in geo-tagged Twitter stream.</title>
+<pages>1215-1218</pages>
+<year>2014</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2600428.2609548</ee>
+<crossref>conf/sigir/2014</crossref>
+<url>db/conf/sigir/sigir2014.html#WangZZL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/ZhangZLCZ14" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0001-5715-7154" pid="71/964">Chengqi Zhang</author>
+<title>Matching dominance: capture the semantics of dominance for multi-dimensional uncertain objects.</title>
+<pages>18:1-18:12</pages>
+<year>2014</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1145/2618243.2618246</ee>
+<crossref>conf/ssdbm/2014</crossref>
+<url>db/conf/ssdbm/ssdbm2014.html#ZhangZLCZ14</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/ZhangLZ0ZY13" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author pid="57/7967">Gaoping Zhu</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>Probabilistic skyline operator over sliding windows.</title>
+<pages>1212-1233</pages>
+<year>2013</year>
+<volume>38</volume>
+<journal>Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.is.2012.03.002</ee>
+<url>db/journals/is/is38.html#ZhangLZ0ZY13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/YuLZCP13" mdate="2020-04-25">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<author pid="p/JianPei">Jian Pei</author>
+<title>More is Simpler: Effectively and Efficiently Assessing Node-Pair Similarities Based on Hyperlinks.</title>
+<pages>13-24</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p13-yu.pdf</ee>
+<ee>https://doi.org/10.14778/2732219.2732221</ee>
+<url>db/journals/pvldb/pvldb7.html#YuLZCP13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ZhaoXLLZ13" mdate="2020-10-06">
+<author pid="07/668-2">Xiang Zhao 0002</author>
+<author orcid="0000-0001-7239-5134" pid="57/4384-1">Chuan Xiao 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="53/4481-1">Qing Liu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>A Partition-Based Approach to Structure Similarity Search.</title>
+<pages>169-180</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>3</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p169-zhao.pdf</ee>
+<ee>https://doi.org/10.14778/2732232.2732236</ee>
+<url>db/journals/pvldb/pvldb7.html#ZhaoXLLZ13</url>
+</article>
+</r>
+<r><article key="journals/www/LinZZL13" mdate="2020-03-27">
+<author pid="95/7992">Qianlu Lin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficient general spatial skyline computation.</title>
+<pages>247-270</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-012-0185-1</ee>
+<url>db/journals/www/www16.html#LinZZL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/LinZZL13" mdate="2020-03-27">
+<author pid="95/7992">Qianlu Lin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>AVR-Tree: Speeding Up the NN and ANN Queries on Location Data.</title>
+<pages>116-130</pages>
+<year>2013</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37487-6_11</ee>
+<crossref>conf/dasfaa/2013-1</crossref>
+<url>db/conf/dasfaa/dasfaa2013-1.html#LinZZL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhaoSZLX13" mdate="2020-03-16">
+<author pid="07/668-2">Xiang Zhao 0002</author>
+<author pid="60/6841">Haichuan Shang</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="87/5207">Weidong Xiao</author>
+<title>On Efficient Graph Substructure Selection.</title>
+<pages>284-300</pages>
+<year>2013</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37450-0_22</ee>
+<crossref>conf/dasfaa/2013-2</crossref>
+<url>db/conf/dasfaa/dasfaa2013-2.html#ZhaoSZLX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/CheemaLZZ13" mdate="2020-03-27">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>A safe zone based approach for monitoring moving skyline queries.</title>
+<pages>275-286</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452409</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#CheemaLZZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YuLZ13" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Towards efficient SimRank computation on large networks.</title>
+<pages>601-612</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544859</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544859</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#YuLZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangZZL13" mdate="2020-03-27">
+<author pid="39/488">Chengyuan Zhang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Inverted linear quadtree: Efficient top k spatial keyword search.</title>
+<pages>901-912</pages>
+<year>2013</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2013.6544884</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2013.6544884</ee>
+<crossref>conf/icde/2013</crossref>
+<url>db/conf/icde/icde2013.html#ZhangZZL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/FengZZZG13" mdate="2021-04-09">
+<author pid="121/5751">Xing Feng</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="07/668">Xiang Zhao</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="80/2651">Yunjun Gao</author>
+<title>Probabilistic k-Skyband Operator over Sliding Windows.</title>
+<pages>190-202</pages>
+<year>2013</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38562-9_20</ee>
+<crossref>conf/waim/2013</crossref>
+<url>db/conf/waim/waim2013.html#FengZZZG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/ZhangLCZC13" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="33/5220">Aiping Li</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="47/179">Lijun Chang</author>
+<title>Probabilistic n-of-N Skyline Computation over Uncertain Data Streams.</title>
+<pages>439-457</pages>
+<year>2013</year>
+<booktitle>WISE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41154-0_33</ee>
+<crossref>conf/wise/2013-2</crossref>
+<url>db/conf/wise/wise2013-2.html#ZhangLCZC13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apweb/2013" mdate="2020-07-20">
+<editor pid="i/YoshiharuIshikawa">Yoshiharu Ishikawa</editor>
+<editor pid="18/6870">Jianzhong Li</editor>
+<editor pid="w/WeiWang11">Wei Wang 0011</editor>
+<editor pid="03/505">Rui Zhang 0003</editor>
+<editor pid="98/5684-1">Wenjie Zhang 0001</editor>
+<title>Web Technologies and Applications - 15th Asia-Pacific Web Conference, APWeb 2013, Sydney, Australia, April 4-6, 2013. Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>7808</volume>
+<ee>https://doi.org/10.1007/978-3-642-37401-2</ee>
+<isbn>978-3-642-37400-5</isbn>
+<booktitle>APWeb</booktitle>
+<url>db/conf/apweb/apweb2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijsi/ZhangCZL12" mdate="2020-08-06">
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Skyline: Stacking Optimal Solutions in Exact and Uncertain Worlds.</title>
+<pages>475-493</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>Int. J. Softw. Informatics</journal>
+<number>4</number>
+<ee>http://www.ijsi.org/ch/reader/view_abstract.aspx?file_no=i141</ee>
+<url>db/journals/ijsi/ijsi6.html#ZhangCZL12</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangLTZW12" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<title>Efficient Computation of Range Aggregates against Uncertain Location-Based Queries.</title>
+<pages>1244-1258</pages>
+<year>2012</year>
+<volume>24</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TKDE.2011.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.46</ee>
+<url>db/journals/tkde/tkde24.html#ZhangLTZW12</url>
+</article>
+</r>
+<r><article key="journals/tods/ZhangLZCZ12" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<title>Stochastic skylines.</title>
+<pages>14:1-14:34</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2188349.2188356</ee>
+<url>db/journals/tods/tods37.html#ZhangLZCZ12</url>
+</article>
+</r>
+<r><article key="journals/vldb/CheemaZLZL12" mdate="2020-03-27">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="16/6448">Xuefei Li</author>
+<title>Continuous reverse k nearest neighbors queries in Euclidean space and in spatial networks.</title>
+<pages>69-95</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00778-011-0235-9</ee>
+<url>db/journals/vldb/vldb21.html#CheemaZLZL12</url>
+</article>
+</r>
+<r><article key="journals/vldb/CheemaZLZ12" mdate="2020-03-27">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Efficiently processing snapshot and continuous reverse k nearest neighbors queries.</title>
+<pages>703-728</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>VLDB J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00778-012-0265-y</ee>
+<url>db/journals/vldb/vldb21.html#CheemaZLZ12</url>
+</article>
+</r>
+<r><article key="journals/www/YuZLZL12" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="68/1429-1">Qing Zhang 0001</author>
+<author pid="79/2728">Jiajin Le</author>
+<title>A space and time efficient algorithm for SimRank computation.</title>
+<pages>327-353</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-010-0100-6</ee>
+<url>db/journals/www/www15.html#YuZLZL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/ZhanZZL12" mdate="2020-03-27">
+<author pid="121/4125">Liming Zhan</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Finding top k most influential spatial facilities over uncertain objects.</title>
+<pages>922-931</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2396878</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#ZhanZZL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhuZZLX12" mdate="2020-10-06">
+<author pid="57/7967">Gaoping Zhu</author>
+<author pid="32/4014-1">Ke Zhu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-7239-5134" pid="57/4384-1">Chuan Xiao 0001</author>
+<title>Efficient Subgraph Similarity All-Matching.</title>
+<pages>455-469</pages>
+<year>2012</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29038-1_33</ee>
+<crossref>conf/dasfaa/2012-1</crossref>
+<url>db/conf/dasfaa/dasfaa2012-1.html#ZhuZZLX12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/LinZZL12" mdate="2020-03-27">
+<author pid="95/7992">Qianlu Lin</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="33/5220">Aiping Li</author>
+<title>General Spatial Skyline Operator.</title>
+<pages>494-508</pages>
+<year>2012</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29038-1_36</ee>
+<crossref>conf/dasfaa/2012-1</crossref>
+<url>db/conf/dasfaa/dasfaa2012-1.html#LinZZL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhangXLZL12" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="07/1951">Jing Xu</author>
+<author pid="31/7475">Xin Liang</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Top-k Similarity Join over Multi-valued Objects.</title>
+<pages>509-525</pages>
+<year>2012</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29038-1_37</ee>
+<crossref>conf/dasfaa/2012-1</crossref>
+<url>db/conf/dasfaa/dasfaa2012-1.html#ZhangXLZL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/ZhangZLL12" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="95/7992">Qianlu Lin</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Effectively indexing the multi-dimensional uncertain objects for range searching.</title>
+<pages>504-515</pages>
+<year>2012</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2247596.2247655</ee>
+<crossref>conf/edbt/2012</crossref>
+<url>db/conf/edbt/edbt2012.html#ZhangZLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ShenCLZW12" mdate="2020-03-16">
+<author pid="22/7752">Zhitao Shen</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<title>Efficiently Monitoring Top-k Pairs over Sliding Windows.</title>
+<pages>798-809</pages>
+<year>2012</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2012.89</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2012.89</ee>
+<crossref>conf/icde/2012</crossref>
+<url>db/conf/icde/icde2012.html#ShenCLZW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/YuLZZL12" mdate="2020-03-27">
+<author pid="45/8097">Weiren Yu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="79/2728">Jiajin Le</author>
+<title>SimFusion+: extending simfusion towards efficient estimation on large and dynamic networks.</title>
+<pages>365-374</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348334</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#YuLZZL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/ZhuLZZY12" mdate="2020-03-16">
+<author pid="57/7967">Gaoping Zhu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="32/4014-1">Ke Zhu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>TreeSpan: efficiently computing similarity all-matching.</title>
+<pages>529-540</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213896</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#ZhuLZZY12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/YuLLZ12" mdate="2020-03-16">
+<author pid="45/8097">Weiren Yu</author>
+<author pid="79/2728">Jiajin Le</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>On the Efficiency of Estimating Penetrating Rank on Large Graphs.</title>
+<pages>231-249</pages>
+<year>2012</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31235-9_15</ee>
+<crossref>conf/ssdbm/2012</crossref>
+<url>db/conf/ssdbm/ssdbm2012.html#YuLLZ12</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/ZhangZLJP11" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="18/4625">Bin Jiang</author>
+<author pid="p/JianPei">Jian Pei</author>
+<title>Ranking uncertain sky: The probabilistic top-k skyline operator.</title>
+<pages>898-915</pages>
+<year>2011</year>
+<volume>36</volume>
+<journal>Inf. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.is.2011.03.008</ee>
+<url>db/journals/is/is36.html#ZhangZLJP11</url>
+</article>
+</r>
+<r><article key="journals/tkde/CheemaBLZW11" mdate="2020-03-16">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0002-5056-4627" pid="b/LBrankovic">Ljiljana Brankovic</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>Continuous Monitoring of Distance-Based Range Queries.</title>
+<pages>1182-1199</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TKDE.2010.246</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.246</ee>
+<url>db/journals/tkde/tkde23.html#CheemaBLZW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasfaa/HasanCLZ11" mdate="2020-03-16">
+<author pid="15/7130">Mahady Hasan</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>A Unified Algorithm for Continuous Monitoring of Spatial Queries.</title>
+<pages>104-118</pages>
+<year>2011</year>
+<booktitle>DASFAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20152-3_9</ee>
+<crossref>conf/dasfaa/2011-2</crossref>
+<url>db/conf/dasfaa/dasfaa2011-2.html#HasanCLZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasfaa/ZhuZZZL11" mdate="2020-03-27">
+<author pid="32/4014-1">Ke Zhu 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="57/7967">Gaoping Zhu</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>BMC: An Efficient Method to Evaluate Probabilistic Reachability Queries.</title>
+<pages>434-449</pages>
+<year>2011</year>
+<booktitle>DASFAA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20149-3_32</ee>
+<crossref>conf/dasfaa/2011-1</crossref>
+<url>db/conf/dasfaa/dasfaa2011-1.html#ZhuZZZL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CheemaLZZ11" mdate="2020-03-27">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Influence zone: Efficiently processing reverse k nearest neighbors queries.</title>
+<pages>577-588</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767904</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767904</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#CheemaLZZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LinZZC11" mdate="2020-03-27">
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<title>Stochastic skyline operator.</title>
+<pages>721-732</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767896</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767896</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#LinZZC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CheemaLWWZ11" mdate="2020-03-16">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="w/HaixunWang">Haixun Wang</author>
+<author pid="06/3456-1">Jianmin Wang 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>A unified approach for computing top-k pairs in multidimensional space.</title>
+<pages>1031-1042</pages>
+<year>2011</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2011.5767903</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2011.5767903</ee>
+<crossref>conf/icde/2011</crossref>
+<url>db/conf/icde/icde2011.html#CheemaLWWZ11</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Zhang10f" mdate="2019-08-23">
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Efficiently and effectively processing probabilistic queries on uncertain data.</title>
+<year>2010</year>
+<school>University of New South Wales, Sydney, Australia</school>
+<ee>http://handle.unsw.edu.au/1959.4/45473</ee>
+<ee>https://www.base-search.net/Record/2e43ecc844871412eaa83b40753469910b22e98944f80bcfc20d583975425a1b</ee>
+<ee>https://www.base-search.net/Record/1ea81042be932280c3d942eaa918bd329745f943e2d9c5ffbed3f9b5539a0f66</ee>
+<note type="source">base-search.net (ftunswworks:oai:unsworks.unsw.edu.au:1959.4/45473)</note>
+<note type="source">base-search.net (ftunswworks:oai:unsworks.library.unsw.edu.au:1959.4/45473)</note>
+</phdthesis>
+</r>
+<r><article key="journals/tkde/CheemaLWZP10" mdate="2020-03-16">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<title>Probabilistic Reverse Nearest Neighbor Queries on Uncertain Data.</title>
+<pages>550-564</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2009.108</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2009.108</ee>
+<url>db/journals/tkde/tkde22.html#CheemaLWZP10</url>
+</article>
+</r>
+<r><article key="journals/tkde/ZhangLZWL10" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="06/3456-1">Jianmin Wang 0001</author>
+<author pid="95/7992">Qianlu Lin</author>
+<title>Effectively Indexing the Uncertain Space.</title>
+<pages>1247-1261</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TKDE.2010.77</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.77</ee>
+<url>db/journals/tkde/tkde22.html#ZhangLZWL10</url>
+</article>
+</r>
+<r><article key="journals/vldb/ZhangLZPW10" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>Threshold-based probabilistic top-<i>k</i> dominating queries.</title>
+<pages>283-305</pages>
+<year>2010</year>
+<volume>19</volume>
+<journal>VLDB J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00778-009-0162-1</ee>
+<url>db/journals/vldb/vldb19.html#ZhangLZPW10</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/ZhangZCL10" mdate="2020-03-16">
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Counting distinct objects over sliding windows.</title>
+<pages>75-84</pages>
+<year>2010</year>
+<booktitle>ADC</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=1862254&#38;CFID=17470975&#38;CFTOKEN=71845406</ee>
+<crossref>conf/adc/2010</crossref>
+<url>db/conf/adc/adc2010.html#ZhangZCL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangLCZW10" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>Quantile-based KNN over multi-valued objects.</title>
+<pages>16-27</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447877</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447877</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ZhangLCZW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangLZZL10" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="57/7967">Gaoping Zhu</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="95/7992">Qianlu Lin</author>
+<title>Efficient rank based KNN query processing over uncertain data.</title>
+<pages>28-39</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447874</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447874</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#ZhangLZZL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CheemaBLZW10" mdate="2020-03-16">
+<author orcid="0000-0003-2139-9121" pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0002-5056-4627" pid="b/LBrankovic">Ljiljana Brankovic</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<title>Multi-guarded safe zone: An effective technique to monitor moving circular range queries.</title>
+<pages>189-200</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447864</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447864</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#CheemaBLZW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/ZhuLZWS10" mdate="2020-03-16">
+<author pid="57/7967">Gaoping Zhu</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author pid="60/6841">Haichuan Shang</author>
+<title>PrefIndex: An Efficient Supergraph Containment Search Technique.</title>
+<pages>360-378</pages>
+<year>2010</year>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13818-8_26</ee>
+<crossref>conf/ssdbm/2010</crossref>
+<url>db/conf/ssdbm/ssdbm2010.html#ZhuLZWS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/CheemaLZWZ09" mdate="2020-04-25">
+<author pid="55/5690">Muhammad Aamir Cheema</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Lazy Updates: An Efficient Technique to Continuously Monitoring Reverse kNN.</title>
+<pages>1138-1149</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol2/vldb09-720.pdf</ee>
+<ee>https://doi.org/10.14778/1687627.1687755</ee>
+<url>db/journals/pvldb/pvldb2.html#CheemaLZWZ09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/ZhangLZWY09" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="w/WeiWang11">Wei Wang 0011</author>
+<author pid="y/JXuYu">Jeffrey Xu Yu</author>
+<title>Probabilistic Skyline Operator over Sliding Windows.</title>
+<pages>1060-1071</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.83</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.83</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#ZhangLZWY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ZhangLTZ09" mdate="2020-03-27">
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author orcid="0000-0003-3883-5452" pid="t/YufeiTao">Yufei Tao</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<title>Uncertain Location Based Range Aggregates in a Multi-dimensional Space.</title>
+<pages>1247-1250</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.212</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2009.212</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#ZhangLTZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/YangZZL09" mdate="2021-04-09">
+<author pid="68/2088">Shuxiang Yang</author>
+<author pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Probabilistic Threshold Range Aggregate Query Processing over Uncertain Data.</title>
+<pages>51-62</pages>
+<year>2009</year>
+<booktitle>APWeb/WAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00672-2_7</ee>
+<crossref>conf/waim/2009</crossref>
+<url>db/conf/waim/waim2009.html#YangZZL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/HuaPZL08" mdate="2020-03-16">
+<author pid="h/MingHua">Ming Hua 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Efficiently Answering Probabilistic Threshold Top-k Queries on Uncertain Data.</title>
+<pages>1403-1405</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497570</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497570</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#HuaPZL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HuaPZL08" mdate="2020-03-16">
+<author pid="h/MingHua">Ming Hua 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author orcid="0000-0003-2396-7225" pid="l/LinXuemin">Xuemin Lin 0001</author>
+<title>Ranking queries on uncertain data: a probabilistic threshold approach.</title>
+<pages>673-686</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376685</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#HuaPZL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/waim/ZhangLPZ08" mdate="2020-03-27">
+<author orcid="0000-0001-6572-2600" pid="98/5684-1">Wenjie Zhang 0001</author>
+<author pid="l/LinXuemin">Xuemin Lin 0001</author>
+<author pid="p/JianPei">Jian Pei</author>
+<author orcid="0000-0002-2674-1638" pid="13/6769-1">Ying Zhang 0001</author>
+<title>Managing Uncertain Data: Probabilistic Approaches.</title>
+<pages>405-412</pages>
+<year>2008</year>
+<booktitle>WAIM</booktitle>
+<ee>https://doi.org/10.1109/WAIM.2008.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAIM.2008.42</ee>
+<crossref>conf/waim/2008</crossref>
+<url>db/conf/waim/waim2008.html#ZhangLPZ08</url>
+</inproceedings>
+</r>
+<coauthors n="133" nc="1">
+<co c="0"><na f="b/Bi:Fei" pid="74/9649">Fei Bi</na></co>
+<co c="0"><na f="b/Brankovic:Ljiljana" pid="b/LBrankovic">Ljiljana Brankovic</na></co>
+<co c="0"><na f="c/Cao_0001:Xin" pid="77/2970-1">Xin Cao 0001</na></co>
+<co c="0"><na f="c/Chang:Lijun" pid="47/179">Lijun Chang</na></co>
+<co c="0"><na f="c/Cheema:Muhammad_Aamir" pid="55/5690">Muhammad Aamir Cheema</na></co>
+<co c="0"><na f="c/Chen_0017:Chen" pid="65/4423-17">Chen Chen 0017</na></co>
+<co c="0"><na f="c/Chen:Hongmei" pid="69/8230">Hongmei Chen</na></co>
+<co c="0"><na f="c/Chen:Xiaoshuang" pid="51/4896">Xiaoshuang Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Xuefeng" pid="12/7186-1">Xuefeng Chen 0001</na></co>
+<co c="0"><na f="c/Chen:Yifan" pid="52/295">Yifan Chen</na></co>
+<co c="0"><na f="c/Cheng:Reynold" pid="89/2619">Reynold Cheng</na></co>
+<co c="0"><na f="c/Chu:Deming" pid="206/0537">Deming Chu</na></co>
+<co c="0"><na f="d/Du_0001:Bo" pid="70/6443-1">Bo Du 0001</na></co>
+<co c="0"><na f="f/Fang:Meng" pid="67/463">Meng Fang</na></co>
+<co c="0"><na f="f/Fang:Yixiang" pid="76/1735">Yixiang Fang</na></co>
+<co c="0"><na f="f/Feng:Xing" pid="121/5751">Xing Feng</na></co>
+<co c="0"><na f="f/Fu:Tom_Z=_J=" pid="89/6622">Tom Z. J. Fu</na></co>
+<co c="0"><na f="g/Gao:Yunjun" pid="80/2651">Yunjun Gao</na></co>
+<co c="0"><na f="h/Han:Yuxing" pid="91/7908">Yuxing Han</na></co>
+<co c="0"><na f="h/Hao:Kongzhang" pid="243/7240">Kongzhang Hao</na></co>
+<co c="0"><na f="h/Hasan:Mahady" pid="15/7130">Mahady Hasan</na></co>
+<co c="0"><na f="h/He:Yizhang" pid="272/4368">Yizhang He</na></co>
+<co c="0"><na f="h/Hua_0001:Ming" pid="h/MingHua">Ming Hua 0001</na></co>
+<co c="0"><na f="h/Huang:Xiaodi" pid="47/1394">Xiaodi Huang</na></co>
+<co c="0"><na f="h/Huang_0001:Xin" pid="98/5766-1">Xin Huang 0001</na></co>
+<co c="0"><na f="h/Huang_0001:Yilun" pid="87/11351-1">Yilun Huang 0001</na></co>
+<co c="0"><na f="h/Huang:Zengfeng" pid="97/9726">Zengfeng Huang</na></co>
+<co c="0"><na f="i/Ishikawa:Yoshiharu" pid="i/YoshiharuIshikawa">Yoshiharu Ishikawa</na></co>
+<co c="0"><na f="j/Jiang:Bin" pid="18/4625">Bin Jiang</na></co>
+<co c="0"><na f="j/Jiang:Shanqing" pid="206/0728">Shanqing Jiang</na></co>
+<co c="0"><na f="j/Jin:Xin" pid="68/3340">Xin Jin</na></co>
+<co c="0"><na f="k/Kato:Hiroyuki" pid="67/1744">Hiroyuki Kato</na></co>
+<co c="0"><na f="l/Lai:Longbin" pid="90/11212">Longbin Lai</na></co>
+<co c="0"><na f="l/Lai:Zhengmin" pid="243/7107">Zhengmin Lai</na></co>
+<co c="0"><na f="l/Lakshmanan:Laks_V=_S=" pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</na></co>
+<co c="0"><na f="l/Le:Jiajin" pid="79/2728">Jiajin Le</na></co>
+<co c="0"><na f="l/Li:Aiping" pid="33/5220">Aiping Li</na></co>
+<co c="0"><na f="l/Li:Conggai" pid="223/9463">Conggai Li</na></co>
+<co c="0"><na f="l/Li:Jianzhong" pid="18/6870">Jianzhong Li</na></co>
+<co c="0"><na f="l/Li_0004:Mingjie" pid="48/10103-4">Mingjie Li 0004</na></co>
+<co c="0"><na f="l/Li_0109:Wei" pid="64/6025-109">Wei Li 0109</na></co>
+<co c="0"><na f="l/Li:Wen" pid="06/721">Wen Li</na></co>
+<co c="0"><na f="l/Li:Xuefei" pid="16/6448">Xuefei Li</na></co>
+<co c="0"><na f="l/Li:Yun" pid="87/6284">Yun Li</na></co>
+<co c="0"><na f="l/Liang:Xin" pid="31/7475">Xin Liang</na></co>
+<co c="0"><na f="l/Lin:Qianlu" pid="95/7992">Qianlu Lin</na></co>
+<co c="0"><na f="l/Lin_0001:Xuemin" pid="l/LinXuemin">Xuemin Lin 0001</na></co>
+<co c="0"><na f="l/Lin:Zhe" pid="167/9068">Zhe Lin</na></co>
+<co c="0"><na f="l/Linghu:Qingyuan" pid="260/0924">Qingyuan Linghu</na></co>
+<co c="0"><na f="l/Liu:Boge" pid="205/9505">Boge Liu</na></co>
+<co c="0"><na f="l/Liu:Kuien" pid="11/2478">Kuien Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Qing" pid="53/4481-1">Qing Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Wanqi" pid="212/4769">Wanqi Liu</na></co>
+<co c="0"><na f="l/Liu_0003:Weiwei" pid="54/6677-3">Weiwei Liu 0003</na></co>
+<co c="0"><na f="l/Liu:Zhuanghua" pid="195/8237">Zhuanghua Liu</na></co>
+<co c="0"><na f="m/Ma:Chenhao" pid="251/5251">Chenhao Ma</na></co>
+<co c="0"><na f="m/McCann:Julie_A=" pid="m/JulieAMcCann">Julie A. McCann</na></co>
+<co c="0"><na f="m/Morishima:Atsuyuki" pid="m/AtsuyukiMorishima">Atsuyuki Morishima</na></co>
+<co c="0"><na f="o/Orlowska:Maria_E=" pid="o/MariaEOrlowska">Maria E. Orlowska</na></co>
+<co c="0"><na f="o/Ouyang:Dian" pid="219/5745">Dian Ouyang</na></co>
+<co c="0"><na f="p/Pan:Shirui" pid="91/8171">Shirui Pan</na></co>
+<co c="0"><na f="p/Pei:Jian" pid="p/JianPei">Jian Pei</na></co>
+<co c="0"><na f="p/Peng:You" pid="56/6780">You Peng</na></co>
+<co c="0"><na f="q/Qian:Zhengping" pid="36/5395">Zhengping Qian</na></co>
+<co c="0"><na f="q/Qin:Lu" pid="51/5585">Lu Qin</na></co>
+<co c="0"><na f="q/Qing:Zhu" pid="61/7131">Zhu Qing</na></co>
+<co c="0"><na f="s/Shang:Haichuan" pid="60/6841">Haichuan Shang</na></co>
+<co c="0"><na f="s/Shang:Shuo" pid="29/8750">Shuo Shang</na></co>
+<co c="0"><na f="s/Shen:Heng_Tao" pid="s/HTShen">Heng Tao Shen</na></co>
+<co c="0"><na f="s/Shen_0001:Xiaobo" pid="136/1805">Xiaobo Shen 0001</na></co>
+<co c="0"><na f="s/Shen:Zhitao" pid="22/7752">Zhitao Shen</na></co>
+<co c="0"><na f="s/Sun:Yifang" pid="127/6126">Yifang Sun</na></co>
+<co c="0"><na f="t/Tang:Jiuyang" pid="69/5457">Jiuyang Tang</na></co>
+<co c="0"><na f="t/Tao:Yufei" pid="t/YufeiTao">Yufei Tao</na></co>
+<co c="0"><na f="t/Tian:Zhihong" pid="73/5444">Zhihong Tian</na></co>
+<co c="0"><na f="t/Tsang:Ivor_W=" pid="35/5873">Ivor W. Tsang</na></co>
+<co c="0"><na f="w/Wang:Haixun" pid="w/HaixunWang">Haixun Wang</na></co>
+<co c="0"><na f="w/Wang:Hanchen" pid="242/5152">Hanchen Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jianmin" pid="06/3456-1">Jianmin Wang 0001</na></co>
+<co c="0"><na f="w/Wang_0037:Kai" pid="78/2022-37">Kai Wang 0037</na></co>
+<co c="0"><na f="w/Wang_0012:Liping" pid="36/1341-12">Liping Wang 0012</na></co>
+<co c="0"><na f="w/Wang:Lizhen" pid="38/2512">Lizhen Wang</na></co>
+<co c="0"><na f="w/Wang_0008:Ran" pid="12/6277-8">Ran Wang 0008</na></co>
+<co c="0"><na f="w/Wang_0011:Wei" pid="w/WeiWang11">Wei Wang 0011</na></co>
+<co c="0"><na f="w/Wang_0007:Xiang" pid="31/2864-7">Xiang Wang 0007</na></co>
+<co c="0"><na f="w/Wang_0002:Xiaoyang" pid="81/1832-2">Xiaoyang Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0023:Yang" pid="w/YangWang23">Yang Wang 0023</na></co>
+<co c="0"><na f="w/Wang:Yuheng" pid="85/4469">Yuheng Wang</na></co>
+<co c="0"><na f="w/Wei:Zhewei" pid="94/4260">Zhewei Wei</na></co>
+<co c="0"><na f="w/Wen:Dong" pid="92/8453">Dong Wen</na></co>
+<co c="0"><na f="w/Wu_0001:Lin" pid="65/6292-1">Lin Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Xudong" pid="47/6768">Xudong Wu</na></co>
+<co c="0"><na f="x/Xia:Yinglong" pid="61/3251">Yinglong Xia</na></co>
+<co c="0"><na f="x/Xiao_0001:Chuan" pid="57/4384-1">Chuan Xiao 0001</na></co>
+<co c="0"><na f="x/Xiao:Weidong" pid="87/5207">Weidong Xiao</na></co>
+<co c="0"><na f="x/Xu:Donna" pid="160/1496">Donna Xu</na></co>
+<co c="0"><na f="x/Xu:Jing" pid="07/1951">Jing Xu</na></co>
+<co c="0"><na f="x/Xu:Zhiqiang" pid="72/51">Zhiqiang Xu</na></co>
+<co c="0"><na f="y/Yang:Jianye" pid="181/9099">Jianye Yang</na></co>
+<co c="0"><na f="y/Yang:Peilun" pid="292/2928">Peilun Yang</na></co>
+<co c="0"><na f="y/Yang:Shiyu" pid="90/8577">Shiyu Yang</na></co>
+<co c="0"><na f="y/Yang:Shuxiang" pid="68/2088">Shuxiang Yang</na></co>
+<co c="0"><na f="y/Yang:Xiaoyan" pid="35/5553">Xiaoyan Yang</na></co>
+<co c="0"><na f="y/Yang_0067:Yang" pid="48/450-67">Yang Yang 0067</na></co>
+<co c="0"><na f="y/Yang:Yixing" pid="136/5454">Yixing Yang</na></co>
+<co c="0"><na f="y/Yang:Zhengyi" pid="73/908">Zhengyi Yang</na></co>
+<co c="0"><na f="y/Yao:Junjie" pid="98/5434">Junjie Yao</na></co>
+<co c="0"><na f="y/Yu:Jeffrey_Xu" pid="y/JXuYu">Jeffrey Xu Yu</na></co>
+<co c="0"><na f="y/Yu:Michael" pid="39/8236">Michael Yu</na></co>
+<co c="0"><na f="y/Yu:Weiren" pid="45/8097">Weiren Yu</na></co>
+<co c="0"><na f="y/Yu:Yuanhang" pid="207/0528">Yuanhang Yu</na></co>
+<co c="0"><na f="y/Yuan:Long" pid="140/2348">Long Yuan</na></co>
+<co c="0"><na f="z/Zhan:Liming" pid="121/4125">Liming Zhan</na></co>
+<co c="0"><na f="z/Zhang_0013:Chen" pid="94/4084-13">Chen Zhang 0013</na></co>
+<co c="0"><na f="z/Zhang:Chengqi" pid="71/964">Chengqi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Chengyuan" pid="39/488">Chengyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Chenyi" pid="78/918">Chenyi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0036:Fan" pid="21/3626-36">Fan Zhang 0036</na></co>
+<co c="0"><na f="z/Zhang:Haida" pid="172/6567">Haida Zhang</na></co>
+<co c="0"><na f="z/Zhang:Junjie" pid="99/6243">Junjie Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Qing" pid="68/1429-1">Qing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0002:Rong" pid="13/5366-2">Rong Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang_0003:Rui" pid="03/505">Rui Zhang 0003</na></co>
+<co c="0"><na f="z/Zhang_0001:Ying" pid="13/6769-1">Ying Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Yuting" pid="z/YutingZhang">Yuting Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhiwei" pid="68/1980">Zhiwei Zhang</na></co>
+<co c="0"><na f="z/Zhao:Xiang" pid="07/668">Xiang Zhao</na></co>
+<co c="0"><na f="z/Zhao_0002:Xiang" pid="07/668-2">Xiang Zhao 0002</na></co>
+<co c="0"><na f="z/Zhou:Jingren" pid="84/2644">Jingren Zhou</na></co>
+<co c="0"><na f="z/Zhou:Zhongxin" pid="48/7636">Zhongxin Zhou</na></co>
+<co c="0"><na f="z/Zhu:Gaoping" pid="57/7967">Gaoping Zhu</na></co>
+<co c="0"><na f="z/Zhu:Jia" pid="22/2544">Jia Zhu</na></co>
+<co c="0"><na f="z/Zhu_0001:Ke" pid="32/4014-1">Ke Zhu 0001</na></co>
+</coauthors>
+</dblpperson>
+
