@@ -3,7 +3,7 @@ import re
 from openpyxl import load_workbook
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--file_name', type=str, default='./data/wei_wang.xml',
+parser.add_argument('--file_name', type=str, default='./data/xuemin_lin.xml',
                     help='the name of the input file to find coi. Currently only support the xml file from dblp')
 parser.add_argument('--years', type=str, default='2019,2020,2021',
                     help='the years need to check for COI.')
@@ -28,20 +28,22 @@ with open(args.file_name) as f:
     while i < num_lines:
         current_line = lines[i]
         # print(current_line)
-        if '<article key=' in current_line:
+        if '<r>' in current_line:
             temp_set = set()
-            while '</article>' not in current_line:
+            while '</r>' not in current_line:
                 if '</author>' in current_line:
                     # print(re.split('<|>',current_line))
                     temp_set.add(re.split('<|>',current_line)[2])
                 elif '<year>' in current_line:
                     paper_year = re.split('<|>',current_line)[2]
+                    # print(paper_year)
                     if paper_year in years:
                         coi_authors = coi_authors.union(temp_set)
                 i+=1
                 current_line = lines[i]
         i+=1
 
+# print(coi_authors)
 wb = load_workbook(filename = args.pc_file)
 pc_sheet = wb['Sheet1']
 for row in pc_sheet.values:
